@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MOV</string>
+    <string name="caster">Caster</string>
+    <string name="synopsis">Synopsis</string>
+    <string name="watch_now">Watch Now</string>
+    <string name="title_film">Film</string>
+    <string name="title_tv">Tv</string>
+    <string name="title_favorite">Favorite</string>
+    <string name="poster_movie">Poster Movie</string>
+    <string name="img_path">https://image.tmdb.org/t/p/original</string>
+    <string name="hint_film">Cari Film…</string>
+    <string name="hint_tv">Cari Tv Series…</string>
+    <string name="added_to_favorite_movie">%1$s Added to Favorite List</string>
+    <string name="removed_to_favorite_movie">%1$s Removed from Favorite List</string>
+    <string name="content_not_found">Content Not Found</string>
+    <string name="poster_film">Poster Film</string>
+
+    <string-array name="category_movie">
+        <item>FILM</item>
+        <item>TV</item>
+    </string-array>
+</resources>
